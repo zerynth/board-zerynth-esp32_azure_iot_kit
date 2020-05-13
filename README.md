@@ -1,1 +1,0 @@
-# board-zerynth-esp32_azure_iot_kit

@@ -1,0 +1,14 @@
+---
+description: Add support for ESP32 Azure IoT Kit
+fullname: board.zerynth.esp32_azure_iot_kit
+info:
+    board: Esp32 Azure IoT Kit
+    chip_manufacturer: Espressif
+    device: esp32
+    family_type: Xtensa lx6
+keywords:
+- espressif
+- esp32
+- board
+title: Esp32 Azure IoT Kit Support Package
+...
